@@ -60,8 +60,8 @@ const Contacts = () => {
                   <div>
                     <p className="font-semibold text-foreground mb-1">Адрес офиса</p>
                     <p className="text-muted-foreground">
-                      г. Москва, ул. Примерная, д. 123<br />
-                      БЦ "Логистика", офис 456
+                      Ульяновская область,<br />
+                      г. Димитровград
                     </p>
                     <p className="text-sm text-muted-foreground mt-1">Пн-Пт: 9:00 - 18:00</p>
                   </div>
@@ -122,7 +122,7 @@ const Contacts = () => {
                 </div>
                 <div>
                   <p className="text-muted-foreground">Юридический адрес</p>
-                  <p className="font-semibold text-foreground">123456, г. Москва, ул. Примерная, д. 123</p>
+                  <p className="font-semibold text-foreground">Ульяновская область, г. Димитровград</p>
                 </div>
               </div>
 

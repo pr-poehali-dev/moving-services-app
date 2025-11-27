@@ -8,6 +8,7 @@ import About from '@/components/About';
 import FAQ from '@/components/FAQ';
 import Contacts from '@/components/Contacts';
 import Footer from '@/components/Footer';
+import FloatingButtons from '@/components/FloatingButtons';
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
       <FAQ />
       <Contacts />
       <Footer />
+      <FloatingButtons />
     </div>
   );
 };

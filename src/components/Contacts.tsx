@@ -76,11 +76,19 @@ const Contacts = () => {
                   <div>
                     <p className="font-semibold text-foreground mb-1">Мессенджеры</p>
                     <div className="flex gap-2 mt-2">
-                      <Button variant="outline" size="sm">
+                      <Button 
+                        variant="outline" 
+                        size="sm"
+                        onClick={() => window.open('https://wa.me/79991234567', '_blank')}
+                      >
                         <Icon name="MessageCircle" size={16} className="mr-2" />
                         WhatsApp
                       </Button>
-                      <Button variant="outline" size="sm">
+                      <Button 
+                        variant="outline" 
+                        size="sm"
+                        onClick={() => window.open('https://t.me/gruzprofi', '_blank')}
+                      >
                         <Icon name="Send" size={16} className="mr-2" />
                         Telegram
                       </Button>

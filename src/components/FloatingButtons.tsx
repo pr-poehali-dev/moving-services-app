@@ -27,7 +27,7 @@ const FloatingButtons = () => {
       <Button
         size="lg"
         className="rounded-full w-14 h-14 shadow-lg hover:scale-110 transition-transform bg-[#25D366] hover:bg-[#20BA5A] animate-bounce"
-        onClick={() => window.open('https://wa.me/79991234567', '_blank')}
+        onClick={() => window.open('https://wa.me/79378703304', '_blank')}
         style={{ animationDelay: '0s', animationDuration: '2s' }}
       >
         <Icon name="MessageCircle" size={24} />
@@ -45,7 +45,7 @@ const FloatingButtons = () => {
       <Button
         size="lg"
         className="rounded-full w-14 h-14 shadow-lg hover:scale-110 transition-transform animate-bounce"
-        onClick={() => window.open('tel:+79991234567')}
+        onClick={() => window.open('tel:+79378703304')}
         style={{ animationDelay: '0.4s', animationDuration: '2s' }}
       >
         <Icon name="Phone" size={24} />

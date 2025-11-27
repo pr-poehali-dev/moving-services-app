@@ -29,8 +29,8 @@ const Contacts = () => {
                   </div>
                   <div>
                     <p className="font-semibold text-foreground mb-1">Телефон</p>
-                    <a href="tel:+79991234567" className="text-primary hover:underline">
-                      +7 (999) 123-45-67
+                    <a href="tel:+79378703304" className="text-primary hover:underline">
+                      +7 (937) 870-33-04
                     </a>
                     <p className="text-sm text-muted-foreground mt-1">Работаем 24/7</p>
                   </div>
@@ -79,7 +79,7 @@ const Contacts = () => {
                       <Button 
                         variant="outline" 
                         size="sm"
-                        onClick={() => window.open('https://wa.me/79991234567', '_blank')}
+                        onClick={() => window.open('https://wa.me/79378703304', '_blank')}
                       >
                         <Icon name="MessageCircle" size={16} className="mr-2" />
                         WhatsApp

@@ -79,8 +79,8 @@ const Footer = () => {
             <ul className="space-y-2 text-sm opacity-80">
               <li className="flex items-center gap-2">
                 <Icon name="Phone" size={16} />
-                <a href="tel:+79991234567" className="hover:opacity-100 transition-opacity">
-                  +7 (999) 123-45-67
+                <a href="tel:+79378703304" className="hover:opacity-100 transition-opacity">
+                  +7 (937) 870-33-04
                 </a>
               </li>
               <li className="flex items-center gap-2">

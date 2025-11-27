@@ -15,7 +15,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Icon name="Truck" size={28} />
-              <span className="text-xl font-bold">ГрузПрофи</span>
+              <span className="text-xl font-bold">Грузоперевозки Димитровград</span>
             </div>
             <p className="text-sm opacity-80">
               Профессиональные услуги грузоперевозок, переездов и сопутствующих работ
@@ -99,7 +99,7 @@ const Footer = () => {
 
         <div className="border-t border-background/20 pt-8 text-center">
           <p className="text-sm opacity-80">
-            © 2024 ГрузПрофи. Все права защищены. | Работаем с 2014 года
+            © 2024 Грузоперевозки Димитровград. Все права защищены. | Работаем с 2014 года
           </p>
         </div>
       </div>

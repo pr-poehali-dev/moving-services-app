@@ -19,7 +19,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <Icon name="Truck" size={32} className="text-primary" />
-            <span className="text-xl font-bold text-foreground">ГрузПрофи</span>
+            <span className="text-xl font-bold text-foreground">Грузоперевозки Димитровград</span>
           </div>
 
           <nav className="hidden md:flex items-center gap-6">

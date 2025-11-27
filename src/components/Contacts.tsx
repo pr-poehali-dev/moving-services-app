@@ -106,7 +106,7 @@ const Contacts = () => {
               <div className="space-y-3 text-sm">
                 <div>
                   <p className="text-muted-foreground">Полное наименование</p>
-                  <p className="font-semibold text-foreground">ООО "ГрузПрофи"</p>
+                  <p className="font-semibold text-foreground">ООО "Грузоперевозки Димитровград"</p>
                 </div>
                 <div>
                   <p className="text-muted-foreground">ИНН</p>

@@ -87,7 +87,7 @@ const Contacts = () => {
                       <Button 
                         variant="outline" 
                         size="sm"
-                        onClick={() => window.open('https://t.me/gruzprofi', '_blank')}
+                        onClick={() => window.open('https://t.me/allahverdiev_443', '_blank')}
                       >
                         <Icon name="Send" size={16} className="mr-2" />
                         Telegram

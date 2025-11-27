@@ -36,7 +36,7 @@ const FloatingButtons = () => {
       <Button
         size="lg"
         className="rounded-full w-14 h-14 shadow-lg hover:scale-110 transition-transform bg-[#0088cc] hover:bg-[#006699] animate-bounce"
-        onClick={() => window.open('https://t.me/gruzprofi', '_blank')}
+        onClick={() => window.open('https://t.me/allahverdiev_443', '_blank')}
         style={{ animationDelay: '0.2s', animationDuration: '2s' }}
       >
         <Icon name="Send" size={24} />
